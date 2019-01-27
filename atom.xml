@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>FCFKD</title>
+  
+  <subtitle>Forever Keep Doing</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://fcfkd.github.io/"/>
+  <updated>2019-01-27T13:04:01.536Z</updated>
+  <id>https://fcfkd.github.io/</id>
+  
+  <author>
+    <name>John Doe</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello, World</title>
+    <link href="https://fcfkd.github.io/2019/01/27/Hello-World/"/>
+    <id>https://fcfkd.github.io/2019/01/27/Hello-World/</id>
+    <published>2019-01-27T13:01:26.000Z</published>
+    <updated>2019-01-27T13:04:01.536Z</updated>
+    
+    <content type="html"><![CDATA[<p>Forever Keep Doing</p><h1 id="FCFKD官博正式开通"><a href="#FCFKD官博正式开通" class="headerlink" title="FCFKD官博正式开通"></a>FCFKD官博正式开通</h1><h3 id="感谢大家长久以来的支持，经过众人的不断努力，FCFKD的官方博客于2019-01-27正式开通。"><a href="#感谢大家长久以来的支持，经过众人的不断努力，FCFKD的官方博客于2019-01-27正式开通。" class="headerlink" title="感谢大家长久以来的支持，经过众人的不断努力，FCFKD的官方博客于2019.01.27正式开通。"></a>感谢大家长久以来的支持，经过众人的不断努力，<em>FCFKD</em>的官方博客于<em>2019.01.27</em>正式开通。</h3><h4 id="本网站将用于-："><a href="#本网站将用于-：" class="headerlink" title="本网站将用于 ："></a>本网站将用于 ：</h4><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">1. 发布信息及通知</span><br><span class="line">2. 交流和讨论</span><br><span class="line">3. 实现API功能</span><br></pre></td></tr></table></figure><h4 id="希望大家共同营造良好的网络环境，缔造优秀球队！"><a href="#希望大家共同营造良好的网络环境，缔造优秀球队！" class="headerlink" title="希望大家共同营造良好的网络环境，缔造优秀球队！"></a>希望大家共同营造良好的网络环境，缔造优秀球队！</h4>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Forever Keep Doing&lt;/p&gt;
+&lt;h1 id=&quot;FCFKD官博正式开通&quot;&gt;&lt;a href=&quot;#FCFKD官博正式开通&quot; class=&quot;headerlink&quot; title=&quot;FCFKD官博正式开通&quot;&gt;&lt;/a&gt;FCFKD官博正式开通&lt;/h1&gt;&lt;h3 id=&quot;感谢大
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
